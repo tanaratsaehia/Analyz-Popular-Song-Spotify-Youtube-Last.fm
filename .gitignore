@@ -1,0 +1,3 @@
+ignore_dir
+__pycache__/
+env
