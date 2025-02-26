@@ -2,4 +2,4 @@ ignore_dir
 __pycache__/
 env
 .cache
-config.py
+spotipy_config.py

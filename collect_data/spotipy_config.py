@@ -1,2 +1,0 @@
-CLIENT_ID = "b2a9b9e30b7a4dfabf81a58aeaef6f99"
-CLIENT_SECRET = "754eeafac7604f1ea914c88840365ee5"
