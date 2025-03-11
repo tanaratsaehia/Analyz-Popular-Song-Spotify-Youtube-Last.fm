@@ -1,0 +1,36 @@
+db.createUser({
+  user: "admin",
+  pwd: "oil1234",
+  roles: [{ role: "root", db: "admin" }]
+})
+
+
+db.createUser({
+  user: "pp",
+  pwd: "dataEn1122344",
+  roles: [{ role: "readWrite", db: "DataEngineer" }]
+})
+
+db.createUser({
+  user: "tae",
+  pwd: "dataEn1122344",
+  roles: [{ role: "readWrite", db: "DataEngineer" }]
+})
+
+db.createUser({
+  user: "big",
+  pwd: "dataEn1122344",
+  roles: [{ role: "readWrite", db: "DataEngineer" }]
+})
+
+db.createUser({
+  user: "matt",
+  pwd: "dataEn1122344",
+  roles: [{ role: "readWrite", db: "DataEngineer" }]
+})
+
+db.createUser({
+  user: "oil",
+  pwd: "dataEn1122344",
+  roles: [{ role: "readWrite", db: "DataEngineer" }]
+})
