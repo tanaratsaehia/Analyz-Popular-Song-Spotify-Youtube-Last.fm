@@ -3078,7 +3078,11 @@ id,track_name,artist,album,popularity,release_date,spotify_url,Genre
 58AZXyKRlsMBMcrRjpJpVG,Debut,KATSEYE,Debut,70,2024-06-28,https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG,k-pop
 7qmvLmX9tyaTiBAVNI6YEn,PLAYING WITH FIRE,BLACKPINK,SQUARE TWO,67,2016-11-01,https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn,k-pop
 2FZIabCRMEWAYfN69Ijn1U,homesick,wave to earth,0.1 flaws and all.,65,2023-04-20,https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U,k-pop
+<<<<<<< HEAD
 0V2passWyAXnON67kfAj7y,ABCD,NAYEON,NA,68,2024-06-14,https://open.spotify.com/track/0V2passWyAXnON67kfAj7y,k-pop
+=======
+0V2passWyAXnON67kfAj7y,ABCD,NAYEON,0.1 flaws and all.,68,2024-06-14,https://open.spotify.com/track/0V2passWyAXnON67kfAj7y,k-pop
+>>>>>>> f0ebe3d3fa95254d237779a62ef9f3e11c35cef3
 0h7QMc9ZRzA9QJrbEHytn2,The Astronaut,Jin,The Astronaut,69,2022-10-28,https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2,k-pop
 3bNNvJA7hsGw0wSpGkfOBm,Too Sad to Dance,Jung Kook,GOLDEN,67,2023-11-03,https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm,k-pop
 5GKwq4sO5ZHKuWaDmdwMQc,Bad Boy,Red Velvet,The Perfect Red Velvet - The 2nd Album Repackage,63,2018-01-29,https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc,k-pop
