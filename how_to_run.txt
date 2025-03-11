@@ -6,3 +6,8 @@ Create ENV using conda this project base on python 3.10
 
 Install requirement library
     pip install -r requirement.txt
+
+
+
+for get all requirements
+    pip list --format=freeze > requirements.txt
