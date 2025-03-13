@@ -1,0 +1,18 @@
+{
+    "collectionName": "Tracks",
+    "indexes": [
+        {
+            "key": {
+                "_id": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "_id_",
+            "v": {
+                "$numberInt": "2"
+            }
+        }
+    ],
+    "type": "collection",
+    "uuid": "106604dffb47424888b7bac87cb32a05"
+}

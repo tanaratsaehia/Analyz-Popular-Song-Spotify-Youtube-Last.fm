@@ -11,3 +11,6 @@ Install requirement library
 
 for get all requirements
     pip list --format=freeze > requirements.txt
+
+mongoDB dump command
+    mongodump --db DataEngineer --out C:/Git-Repository/dataEn_final_project/mongoDB
