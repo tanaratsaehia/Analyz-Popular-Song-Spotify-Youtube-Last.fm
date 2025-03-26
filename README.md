@@ -1,6 +1,7 @@
 this repository for Data Engineering @KKU
 <br><br>
-Analyze most popular song based on release year combine with mongoDB
+Analyze most popular song based on release year combine with mongoDB.<br>
+Datasets from YouTube, Spotify and Last.fm APIs.
 <br><br>
 Create ENV using conda this project base on python 3.10<br>
     conda create -n final_project_dataEn python=3.10<br>
