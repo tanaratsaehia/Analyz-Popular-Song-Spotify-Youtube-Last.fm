@@ -1,5 +1,10 @@
-this repository for CP412109 Data Engineering @KKU
+this repository for Data Engineering @KKU
 <br><br>
-Work flow: https://drive.google.com/file/d/1xpUwD1Osr1u9wdfysrrDhMAiBI-S1hc2/view?usp=sharing
+Analyze most popular song based on release year combine with mongoDB
 <br><br>
-Drive: https://drive.google.com/drive/folders/1IJ5mLSHdUHtzGKeejyIc7suzzIA0agib?usp=sharing
+Create ENV using conda this project base on python 3.10<br>
+    conda create -n final_project_dataEn python=3.10<br>
+    conda activate final_project_dataEn
+<br><br>
+Install requirement library<br>
+    pip install -r requirement.txt
